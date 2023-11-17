@@ -1,2 +1,9 @@
 /node_modules
-.DS_Store
+
+/services/host/build
+/services/admin/build
+/services/shop/build
+
+/services/host/.DS_Store
+/services/admin/.DS_Store
+/services/shop/.DS_Store
